@@ -57,22 +57,6 @@
 
 <div class=”row”>
 	<div class="col-sm-12">
-		<div class="left-heading">Why will JNSAMR reject a manuscript that does not adhere to its style guidelines?</div>
-		<div>
-			<p>JNSAMR will reject any articles that do not adhere to their style guidelines.<p/>
-			<p>Style guidelines ensure that the peer review, editing and publication processes run smoothly. It also ensures consistency throughout the journal.<p/>
-			<p>JNSAMR operates an open access publishing model with no submission charges for authors. <p/>
-			<p>This is rare, most journals operate either by subscription (i.e. non-open access), or by open access with author submission charges. Furthermore, JNSAMR is run by students who volunteer their time.<p/>
-			<p>Thus, inline with the majority of journals, JNSAMR does not have the capacity to perform vast numbers of minor edits to amend manuscripts that do not adhere to its style guidelines.<p/>
-			<p style="color:red;">JNSAMR makes adherence to style guidelines easier by providing submission templates, these can be found here. (Hyperlink XX)<p/>
-		</div>
-	</div>                       
-</div>
-<hr>
-
-
-<div class=”row”>
-	<div class="col-sm-12">
 		<div class="left-heading">Style Guidelines</div>
 			<ul>
 				<li>Format</li>
@@ -86,8 +70,13 @@
 			<div>
 				<p style="color:red;">A format template can be found here <p/>
 					<ul>
-						<li>All manuscripts should be submitted as a Word document (.doc, or .docx). PDF submission will be rejected outright.</li>
-						<li>All text must be submitted in Arial, 12-point font, automatic colour, double spaced, and left aligned.</li>
+						<li>All publications should be submitted as a PDF document</li>
+						<li>Authors are encouraged to submit using the LaTeX template as this speeds up the publication process.</li>
+					</ul>
+				<p>Alternatively authors may typeset their document in any other program.</p>
+					<ul>
+						<li>If authors chose this option their document must be in Arial, 11-point font, automatic colour, double spaced, and left aligned.</li>
+						<li>Headings and subheadings clearly delineated in .pdf format.</li>
 						<li>Manuscript margins should be 2.54cm, and all pages should be numbered consecutively including the title page.</li>
 						<li>Line number must be included (Format-->Document-->Layout-->Line numbers-->Continuous).</li>
 						<li>Remove all hidden text headers or footers from your file before submission.</li>
@@ -130,13 +119,13 @@
 			</div>			
 		<div class="p-subheading">Multimedia Files</div>
 			<div>
-				<p>Video files should be submitted as .WMF or .AVI formats, .FLV, .Mov and .MP4 files are also acceptable.<p/>
+				<p>Video files should be submitted as .WMF, .AVI, .FLV, .Mov or .MP4 files.<p/>
 				<p>Videos should be cited in text in numerical order.<p/>
-				<p>Videos should be uploaded under “Supplementary_File_Video[VIDEO IN TEXT CITATION NUMBER]”<p/>
+				<p>Videos should be uploaded under "multimedia" during the submission proces.<p/>
 			</div>	
 		<div class="p-subheading">Permissions</div>
 			<div>
-				<p>Authors should avoid using any materials that have been published elsewhere, e.g. figures, tables, or videos.<p/>
+				<p>Authors must avoid using any materials that have been published elsewhere, e.g. figures, tables, or videos.<p/>
 				<p>If authors wish to include any material published elsewhere, permission from the copyright holder (author or publisher) must be obtained.<p/>
 				<p>This includes any of your own previously published work, if you are not the copyright holder.<p/>
 			</div>	
@@ -147,9 +136,7 @@
 			</div>		
 		<div class="p-subheading">In text Citation</div>
 			<div>
-				<p>The AMA referencing style should be used for all citations.<p/>
-				<p>An explanation of the AMA style can be found here: <p/>
-				<p>https://www.lib.jmu.edu/citation/amaguide.pdf<p/>
+				<p>The APA referencing style should be used for all citations.<p/>
 				<p>Unofficial references should be avoided but, if deemed necessary by the author, they should be cited in parentheses.<p/>
 			</div>		
 		<div class="p-subheading">Digital Object Identifier (DOI)</div>
