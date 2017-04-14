@@ -42,7 +42,8 @@
 			<p>The research must be original and must not be published or submitted for consideration elsewhere.</p>
 			<p>Authors must agree to all numbered items under the copyright subheading (HYPERLINK). This must be signed by all authors.</p>
 			<p>Authors must submit a consent acknowledgement form.</p>
-			<p>Authors must submit an ICJME conflict of interest form if there are any conflicts of interest to declare. (LINK)</p>
+			<p>Authors must submit a signed ICJME conflict of interest form if there are any conflicts of interest to declare. (LINK)</p>
+			<p>These should be submitted as separate files</p>
 			<p>Authors must adhere to the author ethics policy, style guidelines, and submission instructions.</p>
 		</div>	
     </div>                       
@@ -103,9 +104,9 @@
     <div class="col-sm-12">
         <div class="left-heading">Confidentiality</div>
         <div>
-            <p>JNSAMR’s confidentiality is based on the UK Data Protection ACT and the English law of confidentiality.</p>
-			<p>All patient information must be anonymised and authors should utilise only the minimum volume of patient information required to achieve the intended research purpose.</p>
-			<p>If personal medical information about an identifiable living individual is included, a JNSAMR consent form must be obtained and submitted alongside the manuscript/submission.</p>
+            <p>JNSAMR’s confidentiality policy is based on the UK Data Protection Act and the English law of confidentiality.</p>
+			<p>All patient information must be anonymised and authors should use the minimum amount of patient information necessary.</p>
+			<p>If personal medical information about an identifiable living individual is included, for example case reports or images, a JNSAMR consent form must be completed by the patient and submitted alongside the submission.</p>
 			<p>If consent cannot be obtained the all patient identifiable details must be anonymised.</p>
 			<p>Anonymisation means that the patient or anyone else is unable to identify the patient with certainty.</p>
 			<p>Images may be anonymised by the removal of any patient identifiers.</p>
@@ -122,7 +123,7 @@
 			<p>All manuscripts must adhere to the following style guidelines, otherwise they will be rejected outright.</p>
 			<p>Please see the example submission (HYPERLINK XX) and submission template (HYPERLINK XX)</p>
 			<p>Manuscript contents for each article type can be found under the relevant article in article policies.</p>
-			<p>Manuscripts should be saved as a .doc word document and should be saved in the form. </p>
+			<p>Manuscripts should be saved as a .pdf document and should be saved in the form. </p>
 			<p>YEAR_SURNAME_FIRSTNAME_MANUSCRIPTNAMENOSPACES.doc</p>
 		</div>	
     </div>                       
@@ -137,17 +138,18 @@
 			<p>Every manuscript must contain a title page, which should include:</p>
 			 <ul>
 				<li>Article Title.</LI>
-				<li>Author names in order of authorship.</LI>
-				<li>Author information. List of department, institution, city and country for each author. Each unique department should be numbered and included as superscript AFTER the relevant author.</LI>
-				<li>Corresponding author contact detail: Full name, institution address, email, telephone number of the lead author.</LI>
 				<li>Running title: a short version of the full title (to go at the top of each journal page).</LI>
-				<li>Field of research: basic science: immunology, case study, systematic review etc.</LI>
+				<li>Field of research: e.g. immunology, case study, systematic review etc.</LI>
 				<li>Sources of support: including grants or other support that facilitated completion of the work.</LI>
 				<li>Conflicts of interest</LI>
 				<li>Keywords: 3-5 keywords that best represent the article. These are used for online search engines.</LI>
 				<li>Number of figures: total number of figures (maximum 5).</LI>
 				<li>Number of tables: total number of tables (maximum 3).</LI>
 				<li>Word count, excluding title page, abstract, references, figures and tables.</LI>
+			<p>To ensure a blinded peer review process the title page should not contain:
+				<li>Author names in order of authorship.</LI>
+				<li>Author information. List of department, institution, city and country for each author. Each unique department should be numbered and included as superscript AFTER the relevant author.</LI>
+				<li>Corresponding author contact detail: Full name, institution address, email, telephone number of the lead author.</LI>
 			</ul>
 		</div>	
     </div>                       
@@ -242,7 +244,7 @@
         <div class="left-heading">Re-sumitting Revised Manuscripts</div>
         <div>
             <p>Following the peer review process, authors may be asked to re-submit a revised/amended manuscripts.</p>
-			<p>As part of the peer review process authors may receive a document which will suggest changes. ALL suggested changes should be made.</p>
+			<p>As part of the peer review process authors may receive a document which will suggest changes. All suggested changes should be made.</p>
 			<p>Authors may make a rebuttal stating why certain suggested changes should not be made. If this is the case the Section Editor, Deputy Editor, or Editor-in-Chief will review the rebuttal and make a final decision on the suggested change in question.</p>
 			<p>Once the author has made the suggested changes the authors should submit an amended document AND an amended document compared to the original document (so that reviewers can see that the suggested changes have been made). This can be done by selecting:</p>
 			<p>Tools-->Track Changes-->Compare Documents-->Then select the original document and the amended document.</p>
