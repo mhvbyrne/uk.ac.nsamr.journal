@@ -5,7 +5,6 @@
 		<div>
 			<p> JNSAMR is the official Journal of the National Student Association of Medical Research. JNSAMR is a high quality open access online only journal that is authored, reviewed, and edited by students. <p/>
 			<p> The aim of JNSAMR is to educate students about all parts of the journal publication process, and to provide a free platform to give students experience of the journal submission (XX HYPERLINK TO AUTHOR SUBMISSION) and peer-review process (XX HYPERLINK TO PEER-REVIEW PAGE) without competition from established researchers. <p/>
-			<p>JNSAMR is proudly funded by the Wellcome Trust.<p/>
 		</div>
 	</div>                       
 </div>
@@ -77,10 +76,7 @@
     <div class="col-sm-12">
         <div class="left-heading">Join the editorial team</div>
         <div>
-            <p> We are seeking Section editors for the following sections.</p>
-			<p>XX SECTIONS</p>
-            <p> Please complete the Section Editor Sign sign up form.</p>
-			<p style="color:red;">(HYPERLINK TO FORM)</p>
+		<p> Each year JSAMR puts out a call for editors. The next call for editors will occur in April 2018 </p>
         </div>
     </div>                       
 </div>
